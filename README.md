@@ -2,6 +2,8 @@
 
 ## Windows/ Linux/ Mac
 
+``!! 請先安裝 python！！``
+
 ```
 $ pip install -r requirments.txt
 $ python Helper.py
